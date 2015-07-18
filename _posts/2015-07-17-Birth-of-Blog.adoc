@@ -1,6 +1,5 @@
 = Birth of Blog
 :published_at: 2015-07-17
-:hp-tags: 碎
 
 image::https://raw.githubusercontent.com/liyucun/blog/gh-pages/images/costco.jpg[]
 
