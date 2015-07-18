@@ -1,6 +1,6 @@
 = Birth of Blog
 :published_at: 2015-07-17
-
+:hp-image: https://raw.githubusercontent.com/liyucun/blog/gh-pages/images/costco.jpg
 image::https://raw.githubusercontent.com/liyucun/blog/gh-pages/images/costco.jpg[]
 最近开始发现自己每天沉迷在朋友圈时间太久，自己的时间碎片化太严重了，所以索性关掉了朋友圈。但是，又发现没有地方可以抒发一下情绪，请原谅我也是个话痨的人，所以找了这么一个地方来长篇长篇大论大论地说个没完，要不我真的会给憋坏的！
 
