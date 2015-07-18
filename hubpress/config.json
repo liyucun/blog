@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "liyucun",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"liyucun","repositoryName":"blog","branch":"gh-pages"},"site":{"url":"https://liyucun.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//liyucun.github.io/blog/themes/Casper"}}
