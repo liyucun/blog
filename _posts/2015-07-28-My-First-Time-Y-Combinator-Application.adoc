@@ -1,1 +1,32 @@
 = My First Time Y Combinator Application
+published_at: 2015-07-28 image::http://d152j5tfobgaot.cloudfront.net/wp-content/uploads/2015/03/yourstory_RazorPay_Raises_from_YCombinator.jpg[] 
+一周前的中午，在fb上面看到YC推出了个fellowship的program，给将近1000个startup每个提供1,200的grant，希望能够扩大他们投资的startup。 
+
+申请没有限制，也没有申请费，直接在网上申请即可。不用商业计划书（这里对商科的同学有个大坑，后面会提及），只需要提交好一个申请表还有准备一个intro视频就好了。因为一直有准备很多idea，我和立爷一起从里面挑了一个来申请。最开始填表格问题的时候，回答表格上面的每一个问题都要花好多时间，因为回答一个问题我们会产生10个新问题，等于是把我们整个startup的方方面面都考虑到了。总共大改了4轮，每一轮一个完全不一样的版本。我们从targeting user到marketing strategy, 从business model到business plan，几乎每个方面都覆盖到了（除开如何赢利-因为只要我用户，我们套用一些常见的盈利模型就足够了）。 
+
+由于每天白天要工作，所以也就白天在google docs上面大家一起工作，下班完，就赶紧吃晚饭，大家碰面继续写。每天回家倒头就能睡，也算是解除了我失眠困扰。MIT的工作也给我丢到了一边，以致周末大老板通过小老板来间接“关心”了下我的工作情况。 
+
+image::http://www.wired.com/magazine/wp-content/images/19-06/ff_ycombinator2_f.jpg[] 
+
+整个申请表中最最最重要的2个问题就是： 
+
+***** 
+In two sentences, say the most impressive thing about this team/startup? 
+Please tell us in one or two sentences about the most impressive thing that each founder has built or achieved? 
+***** 
+
+两个问题我想了很久，一直到最后一天才勉强的填上自己的答案。这两个问题不像和我们填写国内的那种党员申请表那样，写你获得了三好学生，什么学习标兵之类的。Sam提到他所需要的是那种extraordinary的事来证明你是extraordinary的人。什么是extraordinary？Sam给了下面的几个例子： 
+
+***** 
+It could be that you did really well in school, or that you wrote a highly-regarded piece of software, or that you paid your own way through college after leaving home at 16. 
+***** 
+
+就是你要show出你的不一样，你是不是bill gates或者是elon musk他们这样的人。上面说的这几个都不算什么，我参看的几份sample application上面申请人的背景，都是把我眼睛闪花了的（几乎都是stanford和mit的，我也算认识到为什么现在大家觉得毕业去google是混得失败的了，相比我们这个小地方大家会觉得你是大神）。直到第三天，我深深的体会到其实这样的申请不是筛选你的idea，而是筛选出真正出色的CEO。 
+
+其它的问题都是关于idea的，可以算是商业计划书但其实差别很大。不过，这里不得不提一个坑：YC不喜欢business的回答方式。我们里面的大部分问题都用了那种商业式的回答，这种回答很general，把一大堆名词往上面堆的同时还说些毫无信息含量的计划策略等等。最后一天我把申请表改得面目全非，然后提交了，8月15号出结果，希望好运伴随。 
+
+最后感谢立爷一起参与这次申请，感觉google大神的指导，感谢Felix大神（我说他是talents也不为过）的批改。
+
+既然看到这里啦，那就发个福利吧：我们的申请视频，我知道...确实...有点...搞笑：
+
+video::FOgFFu_r4As[youtube]
