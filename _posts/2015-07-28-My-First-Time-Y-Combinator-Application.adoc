@@ -1,7 +1,7 @@
 = My First Time Y Combinator Application
 published_at: 2015-07-28 
 
-image::http://d152j5tfobgaot.cloudfront.net/wp-content/uploads/2015/03/yourstory_RazorPay_Raises_from_YCombinator.jpg[] 
+image::http://www.entreprenic.com/wp-content/uploads/2015/07/screen-shot-2012-01-20-at-1-1.12.09-pm.png[] 
 
 一周前的中午，在fb上面看到YC推出了个fellowship的program，给将近1000个startup每个提供1,200的grant，希望能够扩大他们投资的startup。 
 
