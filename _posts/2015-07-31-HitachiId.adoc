@@ -1,1 +1,23 @@
 = Hitachi－Id 实习篇
+:published_at: 2015-07-31
+
+image::http://www.georgesmarcianoart.com/wp-content/uploads/2015/01/old-port-montreal-8061.jpg[]
+
+还有一个月，暑假（这哪里算是假期）就结束了。这个暑假算是在做2份的full-time job: Hitachi-id, MIT Media Lab，如果把在startup的project算上那就是3份工作了。不过，其实除开在Hitachi-Id这儿的full-time，其余两个真的只是算part-time。原本以为整个暑假是要每天通宵达旦，结果其实还好，中间有段时间也还飘飘然的过了，Montreal的节日大大小小也都没有错过。没有最开始想象中的那样子的忙碌，因为这毕竟是在montreal不是在wall street。
+
+5月初刚开始的时候，事情超级多。白天Hitachi上班，坐在office里面整天整天看training材料，也没有coding。下班后，回来赶guarana的project，我还特意叫了辉哥来帮忙。MIT的大小老板们那时候估计以为我跑了，一起进入的同学都在那边讨论问题超级来劲，我一点声音都没有。
+
+这样大概持续过了一个月吧，中途几次通宵赶app。差不多在MIT开始分配任务的时候，把app交付完了，算是长舒一口气。也就这个时候开始，我才有时间感受montreal的summer。每天差不多准时准点上班下班，回家吃饭，然后去学校去做MIT分配的project。周六周天，可能会做一做side project，不过大部分时候都是整天在做分配的project。这样的悠闲生活算是持续了两个月，然后还有一个月。（别说我insane，比起我刚开始每天差不多18hour的满负荷工作，我觉得这真的悠闲）
+
+image::http://file28.mafengwo.net/M00/F3/C7/wKgB6lSvSJ-AC2WlAAaojIciQVE907.gonglve.w680.png[]
+
+Hitachi工作一个月后，我基本上确定这不是我会愿意留下的公司了。同事人都很好，工资也还行，环境也不错（坐落在old port，去chinatown或者下班出去游玩都方便），福利也好。不过，做的product对我实在没有吸引力。在这样的公司呆5年，或者10年，工资虽说不错，但我都是觉得不值的。毕竟只是工资，何况还要缴那么多税。更别提长期久坐带来的颈椎，腰椎的毛病，以及一起其它伴随的问题。
+
+上次实习是跑去了大山里面找金矿，也是让我确定怎么着也得要转专业的想法。这一次，我就确定了不会愿意呆Hitachi这类公司的想法。这种类型的公司有哪些呢？大概囊括了: SAP, Ericsson, Morgan Stanley, Desjardin...这几个都是能在Montreal能申请到的。 Google，Facebook也算，但是他们的情况还有点特殊，毕竟能给你带来些光环，比如从google辞职回国创业，你能分分钟给融个百来万，但在其它的这个就不行。
+
+在Hitachi工作的经历也算是比较开心的，大家都还很nice，有什么问题你可以先从peer开始问起，直到问道tech lead，最终大家肯定会想办法把你问题解决得。每个月还有几次perk，大家一起吃饭聊天呀，大家都挺开心的。白天上班，你呆office呆久了，就可以出去走走，在楼下starbucks买杯咖啡，再有说有笑的回来。每天上班时间也没有限制，反正一周工作满40个小时就可以，也不用你准点到，我要是想睡懒觉，都没有关系。
+
+也算是一段比较开心的时期了，2333333333。
+
+BTW，最近在等试镜（我再次向演艺圈迈了一步）和YC的结果，希望两个都有好运气。
+
